@@ -2,7 +2,7 @@ import type { Match, StandingsRow, LeagueInfo } from '@/types';
 
 export const LEAGUE_INFO: LeagueInfo = {
   name: 'Jupiler Pro League',
-  season: '2024/25',
+  season: '2026/27',
   country: 'België',
 };
 
